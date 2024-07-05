@@ -1,4 +1,4 @@
-
+# UMC-6TH-HACKATHON
 <br>
 <div align="center">
   <img width="1341" alt="스크린샷 2024-07-05 오후 10 57 03" src="https://github.com/UMC-HACKATHON-SnapSpot/server/assets/41982054/ae46be61-5207-4da6-bb9c-a6ebd339e70f">
